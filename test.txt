@@ -1,1 +1,6 @@
 Hi this is text
+
+
+***Hello i am adding a new line without getting latest changes from main***
+
+***here expecting a merge conflict****
